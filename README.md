@@ -1,5 +1,5 @@
-# Datawarehouse
-Datawarehouse according to Kimball models. It is developed in SQL Server 2016 Developer.
+# Data Warehouse
+Data Warehouse according to Kimball models. It is developed in SQL Server 2016 Developer.
 
 ## Installation
 The source is [AdventureWorks2016CTP3](https://www.microsoft.com/en-us/download/details.aspx?id=49502) without modifications.
